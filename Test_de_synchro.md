@@ -1,1 +1,1 @@
-Ceci est un test de modification
+Ceci est un autre test de fusion !
